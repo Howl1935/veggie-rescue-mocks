@@ -1,0 +1,233 @@
+{
+  "donorLog": [
+    {
+      "id": "1",
+      "date": "",
+      "driver": "",
+      "vehicle": "",
+      "donor": {},
+      "lbsPickedUp": 0
+    }
+  ],
+  "deliveryLog": [
+    {
+      "id": "1",
+      "date": "",
+      "driver": "",
+      "vehicle": "",
+      "donor": {},
+      "lbsDroppedOff": 0
+    }
+  ],
+
+  "donors": [
+    {
+      "id": "1",
+      "name": "",
+      "foodType": [],
+      "locationType": [],
+      "donorEntityType": [],
+      "area": ""
+    }
+  ],
+  "recipients": [
+    {
+      "id": "1",
+      "name": "",
+      "foodType": [],
+      "recipientEntityType": [],
+      "demographic": [],
+      "area": ""
+    }
+  ],
+
+  "vehicles": [
+    {
+      "id": "1",
+      "name": "14' chevy truck",
+      "img": "",
+      "weight": 0
+    },
+    {
+      "id": "2",
+      "name": "18' chevy truck",
+      "img": "",
+      "weight": 0
+    },
+    {
+      "id": "3",
+      "name": "honda",
+      "img": "",
+      "weight": 0
+    },
+    {
+      "id": "4",
+      "name": "rental truck (20ft)",
+      "img": "",
+      "weight": 0
+    },
+    {
+      "id": "5",
+      "name": "van",
+      "img": "",
+      "weight": 0
+    },
+    {
+      "id": "6",
+      "name": "personal vehicle",
+      "img": "",
+      "weight": 0
+    }
+  ],
+
+  "drivers": [
+    {
+      "id": "1",
+      "name": "becky",
+      "isLoggedIn": true,
+      "clock_in": "",
+      "clock_out": null,
+      "pin": "1111"
+    },
+    {
+      "id": "2",
+      "name": "diana",
+      "isLoggedIn": false,
+      "clock_in": "",
+      "clock_out": null,
+      "pin": "2222"
+    },
+    {
+      "id": "3",
+      "name": "jim",
+      "isLoggedIn": false,
+      "clock_in": "",
+      "clock_out": null,
+      "pin": "3333"
+    },
+    {
+      "id": "4",
+      "name": "jomy",
+      "isLoggedIn": false,
+      "clock_in": "",
+      "clock_out": null,
+      "pin": "4444"
+    },
+    {
+      "id": "5",
+      "name": "kevin",
+      "isLoggedIn": false,
+      "clock_in": "",
+      "clock_out": null,
+      "pin": "5555"
+    },
+    {
+      "id": "6",
+      "name": "olga",
+      "isLoggedIn": false,
+      "clock_in": "",
+      "clock_out": null,
+      "pin": "6666"
+    },
+    {
+      "id": "7",
+      "name": "peter",
+      "isLoggedIn": false,
+      "clock_in": "",
+      "clock_out": null,
+      "pin": "7777"
+    },
+    {
+      "id": "8",
+      "name": "terry",
+      "isLoggedIn": false,
+      "clock_in": "",
+      "clock_out": null,
+      "pin": "8888"
+    },
+    {
+      "id": "9",
+      "name": "volunteer",
+      "isLoggedIn": false,
+      "clock_in": "",
+      "clock_out": null,
+      "pin": "9999"
+    }
+  ],
+
+  "donorNames": [
+    "ebby's organic farm",
+    "catlin ranch",
+    "the garden of…",
+    "red horizon farm",
+    "givens farms",
+    "bob's well bread",
+    "moua farms",
+    "buckhorn canyon ranch",
+    "rocking chair farms"
+  ],
+  "donorLocationType": [
+    "farmers market",
+    "restauraunt",
+    "warehouse",
+    "gleaning",
+    "other",
+    "food bank",
+    "farm",
+    "community kitchen",
+    "food pantry",
+    "grocery store"
+  ],
+  "donorEntityType": [
+    "farm",
+    "restauraunt",
+    "food supply co",
+    "prepared food transport",
+    "grocery",
+    "nonprofit"
+  ],
+  "recipientNames": [
+    "bethania lutheran church",
+    "bridge house",
+    "buellton senior center",
+    "crossroads church",
+    "people helping people",
+    "sarah house",
+    "friendship manor",
+    "the los alamos foundation -temp covid food pantry"
+  ],
+
+  "foodTypes": [
+    "produce",
+    "baked goods",
+    "packaged/proccessed",
+    "transportation",
+    "meal distribution",
+    "non-food"
+  ],
+  "areas": [
+    "sb/goleta",
+    "carpinteria",
+    "syv",
+    "ventura county",
+    "slo county",
+    "lompoc",
+    "sm/orcutt"
+  ],
+  "demographics": ["low income", "homeless", "seniors", "youth", "animals"],
+  "recipientEntityTypes": [
+    "animals",
+    "church",
+    "community kitchen",
+    "compost",
+    "food pantry",
+    "low income housing",
+    "meals on wheels",
+    "nonprofit-other",
+    "school",
+    "senior center",
+    "shelter",
+    "temp food pantry",
+    "homebound"
+  ]
+}
